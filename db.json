@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin Luminar",
+      "email": "admin@gmail.com",
+      "active": "1",
+      "password": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Anu Krishna",
+      "email": "anu@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "3",
+      "name": "Sithara",
+      "email": "sithara@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "Ram",
+      "email": "ram@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "7",
+      "name": "Ramya H",
+      "email": "ramya@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "name": "Aarya",
+      "email": "aarya@gmail.com",
+      "active": "1"
+    }
+  ]
+}
